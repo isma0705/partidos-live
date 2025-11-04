@@ -1,7 +1,7 @@
 [
   {
     "equipo1": "Pafos",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/962px-Villarreal_CF_logo-en.svg.png",
+    "logo1": "https://upload.wikimedia.org/wikipedia/ru/3/38/Pafos_FC_logo.png",
     "equipo2": "Villarreal",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/962px-Villarreal_CF_logo-en.svg.png",
     "hora": "18:45",
@@ -110,4 +110,5 @@
     "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
 ]
+
 
