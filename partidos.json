@@ -1,12 +1,12 @@
 [
   {
-    "equipo1": "Fenerbahce SK",
-    "logo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Fenerbahce_SK_logo.png",
-    "equipo2": "Istanbul Basaksehir FK",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/9/91/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK_logo.png",
-    "hora": "17:45",
-    "liga": "Liga Turca",
-    "marcador": "2-1",
+    "equipo1": "Pafos",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/962px-Villarreal_CF_logo-en.svg.png",
+    "equipo2": "Villarreal",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/962px-Villarreal_CF_logo-en.svg.png",
+    "hora": "18:45",
+    "liga": "Champions League",
+    "marcador": "-",
     "live": true,
     "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
@@ -110,3 +110,4 @@
     "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
 ]
+
