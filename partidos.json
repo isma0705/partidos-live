@@ -1,0 +1,112 @@
+[
+  {
+    "equipo1": "Fenerbahce SK",
+    "logo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Fenerbahce_SK_logo.png",
+    "equipo2": "Istanbul Basaksehir FK",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/9/91/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK_logo.png",
+    "hora": "17:45",
+    "liga": "Liga Turca",
+    "marcador": "2-1",
+    "live": true,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "equipo1": "Spezia Calcio",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/9/9b/Spezia_Calcio_Logo.png",
+    "equipo2": "Hellas Verona FC",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/6/66/Hellas_Verona_FC_logo.png",
+    "hora": "18:45",
+    "liga": "Copa de Turquía",
+    "marcador": "0-0",
+    "live": false,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "equipo1": "Real Madrid",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "equipo2": "FC Barcelona",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+    "hora": "20:00",
+    "liga": "La Liga",
+    "marcador": "1-1",
+    "live": true,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "equipo1": "Liverpool",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "equipo2": "Manchester City",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+    "hora": "21:30",
+    "liga": "Premier League",
+    "marcador": "0-2",
+    "live": false,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "equipo1": "Juventus",
+    "logo1": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juventus_FC_2017_logo.svg",
+    "equipo2": "AC Milan",
+    "logo2": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AC_Milan.svg",
+    "hora": "19:45",
+    "liga": "Serie A",
+    "marcador": "1-0",
+    "live": true,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "equipo1": "Chelsea",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+    "equipo2": "Arsenal",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+    "hora": "18:00",
+    "liga": "Premier League",
+    "marcador": "0-0",
+    "live": false,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "equipo1": "Bayern Munich",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+    "equipo2": "Borussia Dortmund",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/6/67/Borussia_Dortmund_logo.svg",
+    "hora": "20:30",
+    "liga": "Bundesliga",
+    "marcador": "2-2",
+    "live": true,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "equipo1": "PSG",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/a/a7/PSG_Logo.svg",
+    "equipo2": "Olympique Lyon",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais_logo.svg",
+    "hora": "19:00",
+    "liga": "Ligue 1",
+    "marcador": "3-1",
+    "live": false,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "equipo1": "Atletico Madrid",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+    "equipo2": "Sevilla FC",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/3/3f/Sevilla_CF_logo.svg",
+    "hora": "21:00",
+    "liga": "La Liga",
+    "marcador": "1-2",
+    "live": true,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "equipo1": "Inter Milan",
+    "logo1": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021_logo.svg",
+    "equipo2": "Napoli",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/1/1d/SSC_Napoli_logo.svg",
+    "hora": "20:15",
+    "liga": "Serie A",
+    "marcador": "2-1",
+    "live": false,
+    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  }
+]
