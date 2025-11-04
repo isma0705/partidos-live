@@ -1,116 +1,122 @@
 [
   {
-    "equipo1": "Pafos",
-    "logo1": "https://upload.wikimedia.org/wikipedia/ar/3/32/Pafos_FC.svg",
-    "equipo2": "Villarreal",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/962px-Villarreal_CF_logo-en.svg.png",
-    "hora": "18:45",
-    "liga": "Champions League",
-    "marcador": "-",
-    "live": true,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-  },
-  {
-    "equipo1": "Spezia Calcio",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/9/9b/Spezia_Calcio_Logo.png",
-    "equipo2": "Hellas Verona FC",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/6/66/Hellas_Verona_FC_logo.png",
-    "hora": "18:45",
-    "liga": "Copa de Italia",
-    "marcador": "0-0",
-    "live": false,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-  },
-  {
+    "id": 1,
+    "liga": "La Liga (España)",
     "equipo1": "Real Madrid",
     "logo1": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "equipo2": "FC Barcelona",
+    "equipo2": "Barcelona",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "hora": "20:00",
-    "liga": "La Liga",
-    "marcador": "1-1",
-    "live": true,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-  },
-  {
-    "equipo1": "Liverpool FC",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-    "equipo2": "Manchester City",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
     "hora": "21:00",
-    "liga": "Premier League",
-    "marcador": "3-2",
-    "live": false,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    "marcador": "2 - 1",
+    "live": true,
+    "stream": "https://tuservidor.com/partido1.m3u8"
   },
   {
-    "equipo1": "Juventus FC",
-    "logo1": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juventus_FC_2017_logo.svg",
+    "id": 2,
+    "liga": "Champions League",
+    "equipo1": "PSG",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+    "equipo2": "Bayern Munich",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/1/1b/FC_Bayern_München_logo_%282017%29.svg",
+    "hora": "21:00",
+    "marcador": "0 - 0",
+    "live": false,
+    "stream": "https://tuservidor.com/partido2.m3u8"
+  },
+  {
+    "id": 3,
+    "liga": "Premier League (Inglaterra)",
+    "equipo1": "Manchester United",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+    "equipo2": "Liverpool",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "hora": "20:45",
+    "marcador": "1 - 1",
+    "live": true,
+    "stream": "https://tuservidor.com/partido3.m3u8"
+  },
+  {
+    "id": 4,
+    "liga": "Serie A (Italia)",
+    "equipo1": "Juventus",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/2/2d/Juventus_FC_2017_logo.svg",
     "equipo2": "AC Milan",
     "logo2": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AC_Milan_Logo.svg",
-    "hora": "19:30",
-    "liga": "Serie A",
-    "marcador": "2-2",
-    "live": true,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-  },
-  {
-    "equipo1": "Paris Saint-Germain",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
-    "equipo2": "Olympique Lyonnais",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais.svg",
-    "hora": "20:45",
-    "liga": "Ligue 1",
-    "marcador": "1-0",
+    "hora": "21:30",
+    "marcador": "0 - 2",
     "live": false,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    "stream": "https://tuservidor.com/partido4.m3u8"
   },
   {
+    "id": 5,
+    "liga": "Ligue 1 (Francia)",
+    "equipo1": "Lyon",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais.svg",
+    "equipo2": "Marseille",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/2/2a/Marseille_Logo.svg",
+    "hora": "22:00",
+    "marcador": "1 - 0",
+    "live": false,
+    "stream": "https://tuservidor.com/partido5.m3u8"
+  },
+  {
+    "id": 6,
+    "liga": "Bundesliga (Alemania)",
     "equipo1": "Borussia Dortmund",
-    "logo1": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
-    "equipo2": "Bayern Munich",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
-    "hora": "18:30",
-    "liga": "Bundesliga",
-    "marcador": "0-1",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/6/67/Borussia_Dortmund_logo.svg",
+    "equipo2": "RB Leipzig",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/f/f5/RB_Leipzig_2014_logo.svg",
+    "hora": "19:30",
+    "marcador": "3 - 1",
     "live": true,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    "stream": "https://tuservidor.com/partido6.m3u8"
   },
   {
+    "id": 7,
+    "liga": "Champions League",
+    "equipo1": "Chelsea",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+    "equipo2": "Real Madrid",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "hora": "21:00",
+    "marcador": "0 - 0",
+    "live": false,
+    "stream": "https://tuservidor.com/partido7.m3u8"
+  },
+  {
+    "id": 8,
+    "liga": "Premier League (Inglaterra)",
+    "equipo1": "Arsenal",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+    "equipo2": "Tottenham",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+    "hora": "20:00",
+    "marcador": "2 - 2",
+    "live": true,
+    "stream": "https://tuservidor.com/partido8.m3u8"
+  },
+  {
+    "id": 9,
+    "liga": "La Liga (España)",
     "equipo1": "Atletico Madrid",
     "logo1": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
-    "equipo2": "Sevilla FC",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/7/7d/Sevilla_FC_logo.svg",
-    "hora": "21:15",
-    "liga": "La Liga",
-    "marcador": "1-2",
+    "equipo2": "Sevilla",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/7/7a/Sevilla_FC_logo.svg",
+    "hora": "22:15",
+    "marcador": "1 - 1",
     "live": false,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    "stream": "https://tuservidor.com/partido9.m3u8"
   },
   {
-    "equipo1": "Chelsea FC",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
-    "equipo2": "Arsenal FC",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
-    "hora": "20:00",
-    "liga": "Premier League",
-    "marcador": "0-0",
-    "live": true,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-  },
-  {
-    "equipo1": "Inter de Milán",
-    "logo1": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
-    "equipo2": "Napoli",
-    "logo2": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Napoli_logo.png",
-    "hora": "19:00",
-    "liga": "Serie A",
-    "marcador": "2-1",
+    "id": 10,
+    "liga": "Serie A (Italia)",
+    "equipo1": "Napoli",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/2/2d/SSC_Napoli.svg",
+    "equipo2": "Roma",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/f/f2/AS_Roma_logo.svg",
+    "hora": "21:00",
+    "marcador": "0 - 0",
     "live": false,
-    "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    "stream": "https://tuservidor.com/partido10.m3u8"
   }
 ]
-
-
-
-
